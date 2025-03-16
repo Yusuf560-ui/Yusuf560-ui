@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yusuf560-ui
 - 👀 I’m interested in full stack web development 
-- 🌱 I’m currently learning CSS 
-- 💞️ I’m looking to collaborate on Front end web development 
+- 🌱 I’m currently learning Django 
+- 💞️ I’m looking to collaborate on Backend web development 
 - 📫 How to reach me ysanni560@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
